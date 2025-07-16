@@ -4,8 +4,8 @@ import datetime
 from flask import Flask, request
 
 # Fitbit App credentials
-CLIENT_ID = "xxxxxxx"
-CLIENT_SECRET = "xxxxxxxxxxx"
+CLIENT_ID = "23QGRZ"
+CLIENT_SECRET = "b03fd85ef282dc03646ded5e5baf7cc1"
 REDIRECT_URI = "http://localhost:8000"
 AUTH_URL = "https://www.fitbit.com/oauth2/authorize"
 TOKEN_URL = "https://api.fitbit.com/oauth2/token"
